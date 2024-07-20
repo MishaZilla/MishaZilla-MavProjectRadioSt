@@ -1,4 +1,4 @@
-package org.example.services;
+package org.expuample.services;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
